@@ -72,8 +72,11 @@ The following resources were used during the development of this report:
 
 5. [Building a Power BI Report](https://learn.microsoft.com/en-us/power-bi/report-server/quickstart-create-powerbi-report)  
    Overview of the report-building process in Power BI, including best practices and tips.
+   
+7.  [Best Practices for Designing Power BI Reports](https://community.fabric.microsoft.com/t5/Developer/Power-BI-Design-Best-Practices/m-p/3541539)  
+   Article providing guidelines for effective report design in Power BI.
 
-6. Excel file provided in the **Project 5 Resources** folder on eFundi.  
+8. Excel file provided in the **Project 5 Resources** folder on eFundi.  
    Dataset provided by NWU for use in this project.
 
 
