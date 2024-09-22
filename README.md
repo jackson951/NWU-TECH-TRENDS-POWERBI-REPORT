@@ -61,7 +61,7 @@ The following resources were used during the development of this report:
 1. [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)  
    Official Microsoft documentation on Power BI, covering features, tools, and functionalities.
 
-2. [Data Cleaning Techniques in Power BI](https://www.sqlshack.com/data-cleaning-techniques-in-power-bi/)  
+2. [Data Cleaning Techniques in Power BI](https://community.fabric.microsoft.com/t5/Desktop/Cleaning-Data-In-PowerBi/td-p/3061070)  
    Article detailing techniques for cleaning and preparing data in Power BI.
 
 3. [Creating Calculated Columns and Measures in Power BI](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)  
