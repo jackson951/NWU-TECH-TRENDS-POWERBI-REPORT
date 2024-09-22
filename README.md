@@ -58,10 +58,20 @@ Data connections are securely configured to ensure that all sensitive informatio
 ## 6. References
 The following resources were used during the development of this report:
 
-1. [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
-2. [Data Cleaning Techniques in Power BI](https://data-mania.com/blog/data-cleaning-techniques-power-bi/)
-3. [Creating Calculated Columns and Measures in Power BI](https://radacad.com/creating-calculated-columns-and-measures-in-power-bi)
-4. [Using AI Features in Power BI](https://powerbi.microsoft.com/en-us/blog/ai-features-in-power-bi/)
-5. Excel file provided in the **Project 5 Resources** folder on eFundi.
+1. [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)  
+   Official documentation from Microsoft on Power BI, covering all features, tools, and functionalities.
+   
+2. [Data Cleaning Techniques in Power BI](https://radacad.com/data-preparation-techniques-for-power-bi)  
+   Article by RADACAD explaining best practices and techniques for cleaning and preparing data in Power BI.
+   
+4. [Creating Calculated Columns and Measures in Power BI](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)  
+   A detailed article from SQLBI discussing the use of DAX to create calculated columns and measures in Power BI.
+
+5. [Using AI Features in Power BI](https://powerbi.microsoft.com/en-us/blog/ai-features-in-power-bi/)  
+   Official blog post by Power BI team showcasing AI-powered features available within Power BI to enhance analytics.
+
+6. Excel file provided in the **Project 5 Resources** folder on eFundi.  
+   Dataset provided by NWU for use in this project.
+
 
 For any questions or feedback regarding the report, please reach out to **Jackson** at **39990966@mynwu.ac.za**.
