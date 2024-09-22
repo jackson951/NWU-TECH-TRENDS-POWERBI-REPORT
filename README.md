@@ -70,7 +70,10 @@ The following resources were used during the development of this report:
 4. [Using AI Features in Power BI](https://techcommunity.microsoft.com/t5/educator-developer-blog/power-bi-ai-features-for-all-data-analysts/ba-p/3835447)  
    Documentation on how to leverage AI capabilities within Power BI.
 
-5. Excel file provided in the **Project 5 Resources** folder on eFundi.  
+5.[Building a Power BI Report](https://learn.microsoft.com/en-us/power-bi/report-server/quickstart-create-powerbi-report)  
+   Overview of the report-building process in Power BI, including best practices and tips.
+
+6. Excel file provided in the **Project 5 Resources** folder on eFundi.  
    Dataset provided by NWU for use in this project.
 
 
