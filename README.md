@@ -67,7 +67,7 @@ The following resources were used during the development of this report:
 3. [Creating Calculated Columns and Measures in Power BI](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)  
    A comprehensive guide on using DAX to create calculated columns and measures in Power BI.
 
-4. [Using AI Features in Power BI](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-ai-features)  
+4. [Using AI Features in Power BI](https://techcommunity.microsoft.com/t5/educator-developer-blog/power-bi-ai-features-for-all-data-analysts/ba-p/3835447)  
    Documentation on how to leverage AI capabilities within Power BI.
 
 5. Excel file provided in the **Project 5 Resources** folder on eFundi.  
