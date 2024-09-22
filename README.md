@@ -73,10 +73,19 @@ The following resources were used during the development of this report:
 5. [Building a Power BI Report](https://learn.microsoft.com/en-us/power-bi/report-server/quickstart-create-powerbi-report)  
    Overview of the report-building process in Power BI, including best practices and tips.
    
-7.  [Best Practices for Designing Power BI Reports](https://community.fabric.microsoft.com/t5/Developer/Power-BI-Design-Best-Practices/m-p/3541539)  
+6.  [Best Practices for Designing Power BI Reports](https://community.fabric.microsoft.com/t5/Developer/Power-BI-Design-Best-Practices/m-p/3541539)  
    Article providing guidelines for effective report design in Power BI.
 
-8. Excel file provided in the **Project 5 Resources** folder on eFundi.  
+7. [Power BI Performance Optimization Techniques](https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization)  
+   Tips on optimizing the performance of Power BI reports for better user experience.
+   
+8. [Power Query in Power BI](https://www.edureka.co/blog/introduction-to-power-query/)  
+   Introduction to Power Query and its functionalities for data transformation in Power BI.
+   
+9. [Visualizations in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)  
+   A comprehensive guide on different types of visualizations available in Power BI.
+
+10. Excel file provided in the **Project 5 Resources** folder on eFundi.  
    Dataset provided by NWU for use in this project.
 
 
