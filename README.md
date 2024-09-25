@@ -58,35 +58,25 @@ Data connections are securely configured to ensure that all sensitive informatio
 ## 6. References
 The following resources were used during the development of this report:
 
-1. [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)  
-   Official Microsoft documentation on Power BI, covering features, tools, and functionalities.
+1. Microsoft, n.d. *Power BI Documentation*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/> [Accessed 21 September 2024].
 
-2. [Data Cleaning Techniques in Power BI](https://community.fabric.microsoft.com/t5/Desktop/Cleaning-Data-In-PowerBi/td-p/3061070)  
-   Article detailing techniques for cleaning and preparing data in Power BI.
+2. Fabric Community, 2024. *Data Cleaning Techniques in Power BI*. [online] Available at: <https://community.fabric.microsoft.com/t5/Desktop/Cleaning-Data-In-PowerBi/td-p/3061070> [Accessed 23 September 2024].
 
-3. [Creating Calculated Columns and Measures in Power BI](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)  
-   A comprehensive guide on using DAX to create calculated columns and measures in Power BI.
+3. SQLBI, n.d. *Creating Calculated Columns and Measures in Power BI*. [online] Available at: <https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/> [Accessed 23 September 2024].
 
-4. [Using AI Features in Power BI](https://techcommunity.microsoft.com/t5/educator-developer-blog/power-bi-ai-features-for-all-data-analysts/ba-p/3835447)  
-   Documentation on how to leverage AI capabilities within Power BI.
+4. Microsoft Tech Community, 2024. *Using AI Features in Power BI*. [online] Available at: <https://techcommunity.microsoft.com/t5/educator-developer-blog/power-bi-ai-features-for-all-data-analysts/ba-p/3835447> [Accessed 24 September 2024].
 
-5. [Building a Power BI Report](https://learn.microsoft.com/en-us/power-bi/report-server/quickstart-create-powerbi-report)  
-   Overview of the report-building process in Power BI, including best practices and tips.
-   
-6.  [Best Practices for Designing Power BI Reports](https://community.fabric.microsoft.com/t5/Developer/Power-BI-Design-Best-Practices/m-p/3541539)  
-   Article providing guidelines for effective report design in Power BI.
+5. Microsoft, n.d. *Building a Power BI Report*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/report-server/quickstart-create-powerbi-report> [Accessed 25 September 2024].
 
-7. [Power BI Performance Optimization Techniques](https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization)  
-   Tips on optimizing the performance of Power BI reports for better user experience.
-   
-8. [Power Query in Power BI](https://www.edureka.co/blog/introduction-to-power-query/)  
-   Introduction to Power Query and its functionalities for data transformation in Power BI.
-   
-9. [Visualizations in Power BI](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)  
-   A comprehensive guide on different types of visualizations available in Power BI.
+6. Fabric Community, 2024. *Best Practices for Designing Power BI Reports*. [online] Available at: <https://community.fabric.microsoft.com/t5/Developer/Power-BI-Design-Best-Practices/m-p/3541539> [Accessed 25 September 2024].
 
-10. Excel file provided in the **Project 5 Resources** folder on eFundi.  
-   Dataset provided by NWU for use in this project.
+7. Microsoft, n.d. *Power BI Performance Optimization Techniques*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization> [Accessed 25 September 2024].
+
+8. Edureka, n.d. *Power Query in Power BI*. [online] Available at: <https://www.edureka.co/blog/introduction-to-power-query/> [Accessed 25 September 2024].
+
+9. Microsoft, n.d. *Visualizations in Power BI*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a> [Accessed 25 September 2024].
+
+10. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
 
 
 
