@@ -75,8 +75,10 @@ The following resources were used during the development of this report:
 8. Edureka, n.d. *Power Query in Power BI*. [online] Available at: <https://www.edureka.co/blog/introduction-to-power-query/> [Accessed 25 September 2024].
 
 9. Microsoft, n.d. *Visualizations in Power BI*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a> [Accessed 25 September 2024].
+    
+10 Inforiver, n.d. *Data Storytelling and Advanced Visualizations in Power BI*. [online] Available at: <https://inforiver.com/storytelling-advanced-visualizations-powerbi/> [Accessed 25 September 2024].
 
-10. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
+11. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
 
 
 
