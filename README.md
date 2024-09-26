@@ -78,8 +78,10 @@ The following resources were used during the development of this report:
 9. Microsoft, n.d. *Visualizations in Power BI*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a> [Accessed 25 September 2024].
     
 10. Inforiver, n.d. *Data Storytelling and Advanced Visualizations in Power BI*. [online] Available at: <https://inforiver.com/storytelling-advanced-visualizations-powerbi/> [Accessed 25 September 2024].
+    
+11. Microsoft, 2023. *Types of filters in Power BI reports*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-report-filter-types> [Accessed 26 September 2024].
 
-11. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
+12. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
 
 
 
