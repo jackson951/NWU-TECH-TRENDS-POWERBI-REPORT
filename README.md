@@ -35,10 +35,11 @@ To enhance the flexibility of data analysis, the following filters are available
 These filters are designed to make it easy for stakeholders to drill down into the data and obtain the insights they need quickly.
 
 ## 4. AI Features
-The report incorporates **three AI features** to enhance the analytics and provide deeper insights beyond the traditional visualizations:
-- AI-generated insights based on patterns in project savings and client performance.
-- Forecasting models to predict future savings based on historical data.
-- Anomaly detection to highlight any unusual trends or data points that may require further investigation.
+The report incorporates **four AI features** to enhance the analytics and provide deeper insights beyond traditional visualizations:
+- **Anomaly Detection** to identify any unusual trends or outlier data points in project savings and client performance.
+- **Forecasting** models that predict future savings based on historical trends and patterns.
+- **Decomposition Tree** to break down and analyze project and client data in a hierarchical, drill-down manner.
+- **Q&A Feature** (Bonus) that allows users to ask natural language questions and receive insights based on the dataset.
 
 ## 5. How to Use the Report
 
