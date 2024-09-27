@@ -63,9 +63,9 @@ The following resources were used during the development of this report:
 
 2. Fabric Community, 2024. *Data Cleaning Techniques in Power BI*. [online] Available at: <https://community.fabric.microsoft.com/t5/Desktop/Cleaning-Data-In-PowerBi/td-p/3061070> [Accessed 23 September 2024].
 
-3. SQLBI, n.d. *Creating Calculated Columns and Measures in Power BI*. [online] Available at: <https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/> [Accessed 23 September 2024].
+3. Russo, M. (2022) *Calculated Columns and Measures in DAX*. SQLBI. [Online] Available at: https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/ [Accessed 23 September 2024].
 
-4. Microsoft Tech Community, 2024. *Using AI Features in Power BI*. [online] Available at: <https://techcommunity.microsoft.com/t5/educator-developer-blog/power-bi-ai-features-for-all-data-analysts/ba-p/3835447> [Accessed 24 September 2024].
+4. Oyinbooke, O. (2023) *Power BI AI Features for all Data Analysts*. Microsoft Tech Community. [Online] Available at: https://techcommunity.microsoft.com/t5/educator-developer-blog/power-bi-ai-features-for-all-data-analysts/ba-p/3835447 [Accessed 24 September 2024].
 
 5. Microsoft, n.d. *Building a Power BI Report*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/report-server/quickstart-create-powerbi-report> [Accessed 25 September 2024].
 
