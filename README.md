@@ -83,7 +83,13 @@ The following resources were used during the development of this report:
     
 12. Microsoft. (n.d.) *Combo Chart in Power BI*. [Online] Available at: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-combo-chart?tabs=powerbi-desktop [Accessed 27 September 2024].
 
-13. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
+13. Microsoft, n.d. Implementing Row-Level Security (RLS) in Power BI. [online] Available at: https://learn.microsoft.com/en-us/power-bi/admin/service-admin-rls [Accessed 26 September 2024].
+
+14. Microsoft, n.d. Best practices for Power BI data modeling. [online] Available at: https://learn.microsoft.com/en-us/power-bi/guidance/star-schema [Accessed 26 September 2024].
+
+15. SQLBI, n.d. Optimizing DAX expressions. [online] Available at: https://www.sqlbi.com/articles/optimizing-dax-expressions/ [Accessed 26 September 2024].
+
+16. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
 
 
 
