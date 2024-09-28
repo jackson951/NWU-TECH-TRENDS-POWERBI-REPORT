@@ -88,8 +88,10 @@ The following resources were used during the development of this report:
 14. Microsoft, n.d. Best practices for Power BI data modeling. [online] Available at: https://learn.microsoft.com/en-us/power-bi/guidance/star-schema [Accessed 28 September 2024].
 
 15. Russo, M. (2023) Optimizing DAX expressions involving multiple measures. SQLBI. [Online] Available at: https://www.sqlbi.com/articles/optimizing-dax-expressions/ [Accessed 28 September 2024].
+    
+16. Russo, M. and Ferrari, P. (2019) DAX Patterns. SQLBI. [Online] Available at: https://www.daxpatterns.com/ [Accessed 26 September 2024].
 
-16. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
+17. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
 
 
 
