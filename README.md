@@ -26,22 +26,6 @@ This report is a crucial tool for business stakeholders to make informed decisio
   - **Three key metrics** identified to provide valuable insights into project offerings.
   - Visualizations showing how much savings each project has accumulated over time, and which clients are associated with each project.
 
-### 2.4. Live Connection and Scheduled Refresh
-
-- **Live Connection**:
-  - **Definition**: A connection that queries data directly from the data source without storing a copy in Power BI’s memory.
-  - **Applicable Data Sources**: 
-    - Azure Analysis Services
-    - SQL Server Analysis Services Tabular
-    - SQL Server Analysis Services Multi-Dimensional
-    - Power BI Service Dataset
-
-- **Excel File Connection**:
-  - **Limitation**: Excel files cannot use a live connection.
-  - **Solution**: We use a **scheduled refresh** to update data at regular intervals, ensuring the report reflects the latest information.
-
-Live connections are ideal for scenarios where real-time data access is required and supported by the data source.
-
 ## 3. Filters
 To enhance the flexibility of data analysis, the following filters are available across pages:
 - **Project Filter**: Allows users to filter the report based on specific projects.
@@ -57,7 +41,23 @@ The report incorporates **four AI features** to enhance the analytics and provid
 - **Decomposition Tree** to break down and analyze project and client data in a hierarchical, drill-down manner.
 - **Q&A Feature** (Bonus) that allows users to ask natural language questions and receive insights based on the dataset.
 
-## 5. How to Use the Report
+## 5. Live Connection and Scheduled Refresh
+
+- **Live Connection**:
+  - **Definition**: A connection that queries data directly from the data source without storing a copy in Power BI’s memory.
+  - **Applicable Data Sources**: 
+    - Azure Analysis Services
+    - SQL Server Analysis Services Tabular
+    - SQL Server Analysis Services Multi-Dimensional
+    - Power BI Service Dataset
+
+- **Excel File Connection**:
+  - **Limitation**: Excel files cannot use a live connection.
+  - **Solution**: We use a **scheduled refresh** to update data at regular intervals, ensuring the report reflects the latest information.
+
+Live connections are ideal for scenarios where real-time data access is required and supported by the data source.
+
+## 6. How to Use the Report
 
 ### A. Accessing the Report
 Once you have been granted access to the report in the **Power BI Online Service**, you can:
@@ -72,7 +72,7 @@ Once you have been granted access to the report in the **Power BI Online Service
 ### C. Data Security
 Data connections are securely configured to ensure that all sensitive information remains protected. Only authorized users with the appropriate access levels will be able to view or interact with the data.
 
-## 6. References
+## 7. References
 The following resources were used during the development of this report:
 
 1. Microsoft, n.d. *Power BI Documentation*. [online] Available at: <https://learn.microsoft.com/en-us/power-bi/> [Accessed 21 September 2024].
