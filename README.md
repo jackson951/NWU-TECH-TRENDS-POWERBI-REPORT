@@ -26,6 +26,22 @@ This report is a crucial tool for business stakeholders to make informed decisio
   - **Three key metrics** identified to provide valuable insights into project offerings.
   - Visualizations showing how much savings each project has accumulated over time, and which clients are associated with each project.
 
+### 2.4. Live Connection and Scheduled Refresh
+
+- **Live Connection**:
+  - **Definition**: A connection that queries data directly from the data source without storing a copy in Power BI’s memory.
+  - **Applicable Data Sources**: 
+    - Azure Analysis Services
+    - SQL Server Analysis Services Tabular
+    - SQL Server Analysis Services Multi-Dimensional
+    - Power BI Service Dataset
+
+- **Excel File Connection**:
+  - **Limitation**: Excel files cannot use a live connection.
+  - **Solution**: We use a **scheduled refresh** to update data at regular intervals, ensuring the report reflects the latest information.
+
+Live connections are ideal for scenarios where real-time data access is required and supported by the data source.
+
 ## 3. Filters
 To enhance the flexibility of data analysis, the following filters are available across pages:
 - **Project Filter**: Allows users to filter the report based on specific projects.
