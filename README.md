@@ -105,7 +105,7 @@ The following resources were used during the development of this report:
 
 15. Russo, M. (2023) Optimizing DAX expressions involving multiple measures. SQLBI. [Online] Available at: https://www.sqlbi.com/articles/optimizing-dax-expressions/ [Accessed 28 September 2024].
     
-16. Russo, M. and Ferrari, P. (2019) DAX Patterns. SQLBI. [Online] Available at: https://www.daxpatterns.com/ [Accessed 26 September 2024].
+16. Russo, M. and Ferrari, P. (2019) DAX Patterns. SQLBI. [Online] Available at: https://www.daxpatterns.com/ [Accessed 28 September 2024].
     
 17. Rad, R. (2022) *Live Connection; When Power BI Comes Hybrid*. [Online] Available at: [https://radacad.com/live-connection-when-power-bi-comes-hybrid](https://radacad.com/live-connection-when-power-bi-comes-hybrid) [Accessed 29 September 2024].
     
