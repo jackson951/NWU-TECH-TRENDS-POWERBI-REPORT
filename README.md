@@ -59,7 +59,7 @@ Live connections are ideal for scenarios requiring real-time data access.
 
 ### A. Accessing the Report
 1. Open the report in Power BI by navigating to the assigned workspace.
-2. Use the navigation panel to switch between the High-Level Metrics, Client Monitoring, and Project Monitoring pages.
+2. Use the navigation panel to switch between the `High-Level Metrics`, `Client Monitoring`, and `Project Monitoring pages`.
 
 ### B. Interacting with the Report
 - **Filters**: Utilize filters on the right-hand side to focus on specific clients, projects, or time periods.
