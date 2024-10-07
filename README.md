@@ -122,7 +122,7 @@ The following resources were used during the development of this report:
     
 18. Microsoft Learn, 2024. Power BI Guidance Documentation. [online] Available at: https://learn.microsoft.com/en-us/power-bi/guidance/ [Accessed 3 October 2024].
 
-19. ScaleupAlly, 2024. Best Power BI Report Examples. [online] Available at: https://scaleupally.com/power-bi-report-examples/ [Accessed 5 October 2024].
+19. Microsoft, 2024. Sample Datasets for Power BI. [online] Available at: https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets [Accessed 26 September 2024].
 
 20. Microsoft, 2014. Describing the Forecasting Models in Power View. [online] Available at: https://powerbi.microsoft.com/fi-fi/blog/describing-the-forecasting-models-in-power-view/ [Accessed 26 September 2024].
     
