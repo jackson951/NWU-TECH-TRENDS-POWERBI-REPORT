@@ -119,7 +119,22 @@ The following resources were used during the development of this report:
 16. Russo, M. and Ferrari, P. (2019) *DAX Patterns*. SQLBI. [Online] Available at: <https://www.daxpatterns.com/> [Accessed 28 September 2024>.
 
 17. Rad, R. (2022) *Live Connection; When Power BI Comes Hybrid*. [Online] Available at: <https://radacad.com/live-connection-when-power-bi-comes-hybrid> [Accessed 29 September 2024].
+    
+18. Microsoft Learn, 2024. Power BI Guidance Documentation. [online] Available at: https://learn.microsoft.com/en-us/power-bi/guidance/ [Accessed 3 October 2024].
 
-18. NWU, 2024. *Excel file provided in the Project 5 Resources folder on eFundi*.
+19. ScaleupAlly, 2024. Best Power BI Report Examples. [online] Available at: https://scaleupally.com/power-bi-report-examples/ [Accessed 5 October 2024].
+
+20. VBeyond Digital, 2024. Power BI Trends and Predictions. [online] Available at: https://vbeyonddigital.com/power-bi-trends-2024/ [Accessed 5 October 2024].
+    
+21. Microsoft Power BI Blog, 2024. Power BI September 2024 Feature Summary. [online] Available at: https://powerbi.microsoft.com/en-us/blog/september-2024-feature-summary/ [Accessed 5 October 2024].
+
+22. Numerro, 2024. The Complete Guide to Designing Power BI Reports. [online] Available at: https://www.numerro.io/power-bi-report-design-guide/ [Accessed 6 October 2024].
+
+23. Microsoft Learn, 2024. Power BI Implementation Planning. [online] Available at: https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-implementation/ [Accessed 6 October 2024].
+    
+24. Inforiver, 2024. Storytelling and Advanced Visualizations in Power BI. [online] Available at: https://inforiver.com/storytelling-advanced-visualizations-powerbi/ [Accessed 6 October 2024].
+    
+25. Gartner, 2024. Power BI Reviews and Features. [online] Available at: https://www.gartner.com/reviews/market/power-bi [Accessed 7 October 2024].
+
 
 For any questions or feedback regarding the report, please reach out to **Jackson** at **39990966@mynwu.ac.za**.
