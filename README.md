@@ -134,7 +134,7 @@ The following resources were used during the development of this report:
     
 24. Inforiver, 2024. Storytelling and Advanced Visualizations in Power BI. [online] Available at: https://inforiver.com/storytelling-advanced-visualizations-powerbi/ [Accessed 6 October 2024].
     
-25. SQLBI, 2024. Optimizing Power BI Reports: Best Practices for Performance and Usability. [online] Available at: https://www.sqlbi.com/articles/optimizing-power-bi-reports/ [Accessed 25 September 2024].
+25. SQLBI, 2024. Optimizing Power BI Reports: Best Practices for Performance and Usability. [online] Available at: https://www.sqlbi.com/tv/my-power-bi-report-is-slow/ [Accessed 25 September 2024].
 
 
 For any questions or feedback regarding the report, please reach out to **Jackson** at **39990966@mynwu.ac.za**.
