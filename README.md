@@ -124,7 +124,7 @@ The following resources were used during the development of this report:
 
 19. ScaleupAlly, 2024. Best Power BI Report Examples. [online] Available at: https://scaleupally.com/power-bi-report-examples/ [Accessed 5 October 2024].
 
-20. Microsoft, 2014. Describing the Forecasting Models in Power View. [online] Available at: https://powerbi.microsoft.com/fi-fi/blog/describing-the-forecasting-models-in-power-view/ [Accessed 7 October 2024].
+20. Microsoft, 2014. Describing the Forecasting Models in Power View. [online] Available at: https://powerbi.microsoft.com/fi-fi/blog/describing-the-forecasting-models-in-power-view/ [Accessed 26 September 2024].
     
 21. Microsoft Power BI Blog, 2024. Power BI September 2024 Feature Summary. [online] Available at: https://powerbi.microsoft.com/en-us/blog/september-2024-feature-summary/ [Accessed 5 October 2024].
 
